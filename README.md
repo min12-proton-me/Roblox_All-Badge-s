@@ -1,3 +1,5 @@
+![Roblox Logo](Roblox-Logo.svg)
+
 # All Badge's
 ## Verified Badge
 ![Verified Badge](Badge's/Verified-Badge.svg)
