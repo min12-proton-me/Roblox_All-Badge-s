@@ -1,4 +1,4 @@
-![Roblox Logo](Roblox-Logo.svg)
+![Roblox Logo](Roblox-Logo.svg) ![](Filled-Shield-Check.svg) ![](Filled-Lock-Closed.svg)
 
 # All Badge's
 ## Verified Badge
